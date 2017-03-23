@@ -1,2 +1,2 @@
 # hello-world
-trying to learn...
+trying to learn something new..
